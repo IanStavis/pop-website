@@ -15,6 +15,8 @@ gem 'rails', '~> 5.1.4'
 #12 factor for heroku
 gem 'rails_12factor', group: :production
 # Use sqlite3 as the database for Active Record
+# Add twitter bootstrap
+gem 'bootstrap-sass'
 # sqlite3 for development and test database
 # postgres for production database
 source 'https://rubygems.org'
